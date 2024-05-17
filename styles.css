@@ -1,0 +1,92 @@
+body {
+	margin: auto;
+}
+
+/* div {
+	border: 1px black solid;
+} */
+.sidebar {
+	background-color: rgb(12, 194, 254);
+	color: white;
+}
+.sidebar h3 {
+	padding: 50px;
+}
+.icon {
+	width: 30px;
+	align-items: center;
+}
+.dashboard {
+	background-color: lightgray;
+	padding: 20px;
+}
+.box {
+	padding: 0px;
+}
+.section {
+	margin: 0 10px 0 10px;
+	background-color: white;
+	padding: 10px;
+}
+.box:last-child .section {
+	margin-right: 0px;
+}
+.box:first-child .section {
+	margin-left: 0px;
+}
+.numberBoxes {
+	margin: 0;
+}
+.bigBox {
+	background-color: white;
+	margin-top: 10px;
+}
+.monthly .title {
+	color: blue;
+}
+.annual .title {
+	color: green;
+}
+.tasks .title {
+	color: orange;
+}
+.box .number {
+	font-weight: bolder;
+	font-size: 20px;
+}
+.progress {
+	padding-left: 0px;
+	/* margin-right: 10px; */
+}
+.left {
+}
+.progress-bar {
+	padding-bottom: 10px;
+}
+.path {
+	background-color: rgb(233, 232, 232);
+	padding: 15px;
+	margin: 5px;
+}
+.userBox {
+	background-color: White;
+	padding: 10px;
+	border: 5px lightgray solid;
+}
+.line {
+	border-bottom: 1px grey solid;
+	padding-top: 5px;
+}
+.rightBottom p {
+	padding-top: 30px;
+}
+.rightBottom {
+	margin: 1px;
+}
+.social {
+	height: 283px;
+}
+.profile {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
