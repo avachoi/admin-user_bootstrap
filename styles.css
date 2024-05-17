@@ -1,7 +1,9 @@
 body {
 	margin: auto;
 }
-
+.whole {
+	width: 1800px;
+}
 /* div {
 	border: 1px black solid;
 } */
@@ -40,6 +42,7 @@ body {
 .bigBox {
 	background-color: white;
 	margin-top: 10px;
+	padding: 10px;
 }
 .monthly .title {
 	color: blue;
@@ -89,4 +92,15 @@ body {
 .profile {
 	padding-top: 40px;
 	padding-bottom: 40px;
+}
+.approach {
+	height: 333px;
+}
+.userName {
+	text-align: end;
+}
+.alert {
+	margin: 0px;
+	padding: 0px;
+	text-align: end;
 }
